@@ -1,1 +1,2 @@
-# odin-recipes1
+ # odin-recipes
+ Easy Cooking Recipes that you can do home.
